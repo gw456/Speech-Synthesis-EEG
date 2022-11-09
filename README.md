@@ -1,3 +1,8 @@
+# Speech Synthesis Based On EEG
+In this project we tried to synthesis limited sentences using EEG signal input. This code can be divided into 5 steps, that are data collection, signal filtering, classification with deep learning, arranging classified syllable into sentence and turning text into speech output.
+
+## Data Collection
+
 # BITalino (r)evolution Python API
 The BITalino (r)evolution Python API provides the needed tools to interact with BITalino (r)evolution using Python.
 
